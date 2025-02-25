@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/12/Sonic-the-Hedgehog-3-2024-%E0%B9%82%E0%B8%8B%E0%B8%99%E0%B8%B4%E0%B8%84-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%80%E0%B8%AE%E0%B8%94%E0%B8%88%E0%B9%8C%E0%B8%AE%E0%B9%87%E0%B8%AD%E0%B8%81-3.png" group-title="Animation",Sonic 3+
-https://main.24playerhd.com/m3u8/c9bd4f35df5b76a8d8ff1373/c9bd4f35df5b76a8d8ff1373438.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Wicked-Part-I-%E0%B8%A7%E0%B8%B4%E0%B8%84%E0%B9%80%E0%B8%84%E0%B9%87%E0%B8%94-2024.jpg" group-title="Fantasy",Wicked
 https://main.24playerhd.com/newplaylist/820c4f1e1b93c3f32b1dd453/820c4f1e1b93c3f32b1dd453.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/11/Spellbound-%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%9B-2024.jpg" group-title="Animation",ผจญภัยแดนต้องสาป
@@ -67,3 +65,7 @@ https://main.24playerhd.com/newplaylist/615d69cb585abe9a5e0bf93a/615d69cb585abe9
 https://main.24playerhd.com/newplaylist/75ad43bd0f9fabdcf26e6917/75ad43bd0f9fabdcf26e6917.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/08/Fantastic-Beasts-3-The-Secrets-of-Dumbledore-2022-187x269.jpg" group-title="Fantastic Beasts",Fantastic Beasts 3 The Secrets of Dumbledore (2022) สัตว์มหัศจรรย์ ความลับของดัมเบิลดอร์
 https://main.24playerhd.com/newplaylist/eba596c00738473088c0eae0/eba596c00738473088c0eae0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Death-Whisperer-2023-%E0%B8%98%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A2%E0%B8%94-1-187x269.jpg" group-title="ธี่หยด",ธี่หยด 1
+https://main.24playerhd.com/newplaylist/314ec46764d43ac7a7a825ab/314ec46764d43ac7a7a825ab.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/10/%E0%B8%98%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%A2%E0%B8%94-2-Death-Whisperer-2-2024.jpg" group-title="ธี่หยด",ธี่หยด 2
+https://main.24playerhd.com/newplaylist/ed13e9288c02ec609666a891/ed13e9288c02ec609666a891.m3u8
